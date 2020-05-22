@@ -1,0 +1,26 @@
+#Error messages
+noPermission: "&cYou do not have permission to execute this command!"
+illegalArguments: "&cIllegal Arguments! Please try again with the correct arguments!"
+notAPlayer: "&cOnly players may execute this command!"
+targetOffline: "&b%target%&c Is either offline or does not exist!"
+
+#Help Message
+Help:
+  - "&b-----------------------"
+  - "&fExample help line"
+  - "&fExample help line 2"
+  - "&b-----------------------"
+#Flight messages
+Flight:
+  enabled: "&6Flight mode&a enabled&6!"
+  disabled: "&6Flight mode&c disabled&6!"
+  enabledOthers: "&6Flight mode&a enabled&6 for&b %target%&6!"
+  disabledOthers: "&6Flight mode&c disabled&6 for&b %target%&6!"
+#Ping messages
+Ping:
+  self: "&6Your ping is&b %ping%"
+  others: "&b%target%'s&6 Ping is &b%ping%"
+#StaffChat Messages
+StaffChat:
+  toggle: "&6StaffChat toggled %mode%"
+  format: "&7[&4STAFF&7] &a%name%&5>&6 %message%"

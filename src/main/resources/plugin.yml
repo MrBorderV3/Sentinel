@@ -1,0 +1,9 @@
+name: Sentinel
+version: ${project.version}
+main: me.border.sentinel.Sentinel
+authors: [MrBorder]
+commands:
+  fly:
+  help:
+  ping:
+  staffchat:
